@@ -141,5 +141,3 @@ streamlit run app.py
 👉 With this, you’ve got a working **Chat with PDF using Gemini** app.
 
 ---
-
-Do you also want me to generate a **`requirements.txt`** file so that anyone can install dependencies easily with `pip install -r requirements.txt`?
